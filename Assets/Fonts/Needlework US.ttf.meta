@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 9f88b21a5ba93a840b17afe45c4352c6
+timeCreated: 1485370454
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Needlework US
+  fontNames:
+  - Needlework US
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

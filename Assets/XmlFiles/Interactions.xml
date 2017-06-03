@@ -1,0 +1,206 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Interactions>
+    <Interaction>
+      <Name>AttackMission</Name>
+      <Hunger>10</Hunger>
+      <Energy>10</Energy>
+      <Fun>10</Fun>
+      <Unadventurous>10</Unadventurous>
+      <tagInteracao>Hero</tagInteracao>
+    </Interaction>
+  
+    <Interaction>
+      <Name>DefenseMission</Name>
+      <Hunger>10</Hunger>
+      <Energy>10</Energy>
+      <Fun>10</Fun>
+      <Unadventurous>10</Unadventurous>
+      <tagInteracao>Hero</tagInteracao>
+      
+    </Interaction>
+  
+    <Interaction>
+      <Name>ExploreMission</Name>
+      <Hunger>10</Hunger>
+      <Energy>10</Energy>
+      <Fun>10</Fun>
+      <Unadventurous>10</Unadventurous>
+      <tagInteracao>Hero</tagInteracao>
+    </Interaction>
+
+  <!-- Buildings Interactions-->
+  
+  <Interaction>
+    <Name>Visit</Name>
+    <Hunger>10</Hunger>
+    <Energy>10</Energy>
+    <Fun>10</Fun>
+    <Unadventurous>10</Unadventurous>
+    <TagInteracao>Hero</TagInteracao>
+
+    <framesDuration>5</framesDuration>
+    <x>0.0f</x>
+    <y>0.0f</y>
+    <z>0.0f</z>
+      
+    <eHunger>10</eHunger>
+    <eEnergy>10</eEnergy>
+    <eFun>10</eFun>
+    <eUnadventurous>10</eUnadventurous>
+  </Interaction>
+  
+    <Interaction>
+    <Name>VisitINN</Name>
+    <Hunger>10</Hunger>
+    <Energy>10</Energy>
+    <Fun>10</Fun>
+    <Unadventurous>10</Unadventurous>
+    <TagInteracao>Hero</TagInteracao>
+
+    <framesDuration>5</framesDuration>
+    <x>0.0f</x>
+    <y>0.0f</y>
+    <z>0.0f</z>
+      
+    <eHunger>10</eHunger>
+    <eEnergy>10</eEnergy>
+    <eFun>10</eFun>
+    <eUnadventurous>10</eUnadventurous>
+  </Interaction>
+  
+  <!-- Guilds Interactions-->
+
+  <Interaction>
+    <Name>VisitMonastery</Name>
+    <Hunger>10</Hunger>
+    <Energy>10</Energy>
+    <Fun>10</Fun>
+    <Unadventurous>0</Unadventurous>
+    <TagInteracao>Cleric</TagInteracao>
+
+    <framesDuration>5</framesDuration>
+    <x>0.0f</x>
+    <y>0.0f</y>
+    <z>0.0f</z>
+
+    <eHunger>10</eHunger>
+    <eEnergy>10</eEnergy>
+    <eFun>10</eFun>
+    <eUnadventurous>10</eUnadventurous>
+  </Interaction>
+
+  <Interaction>
+    <Name>VisitRoguesGuild</Name>
+    <Hunger>10</Hunger>
+    <Energy>10</Energy>
+    <Fun>10</Fun>
+    <Unadventurous>0</Unadventurous>
+    <TagInteracao>Thief</TagInteracao>
+
+    <framesDuration>5</framesDuration>
+    <x>0.0f</x>
+    <y>0.0f</y>
+    <z>0.0f</z>
+
+    <eHunger>10</eHunger>
+    <eEnergy>10</eEnergy>
+    <eFun>10</eFun>
+    <eUnadventurous>10</eUnadventurous>
+  </Interaction>
+
+  <Interaction>
+    <Name>VisitWarriorsGuild</Name>
+    <Hunger>10</Hunger>
+    <Energy>10</Energy>
+    <Fun>10</Fun>
+    <Unadventurous>0</Unadventurous>
+    <TagInteracao>Warrior</TagInteracao>
+
+    <framesDuration>5</framesDuration>
+    <x>0.0f</x>
+    <y>0.0f</y>
+    <z>0.0f</z>
+
+    <eHunger>10</eHunger>
+    <eEnergy>10</eEnergy>
+    <eFun>10</eFun>
+    <eUnadventurous>10</eUnadventurous>
+  </Interaction>
+  
+  <Interaction>
+    <Name>VisitArchersTent</Name>
+    <Hunger>10</Hunger>
+    <Energy>10</Energy>
+    <Fun>10</Fun>
+    <Unadventurous>0</Unadventurous>
+    <TagInteracao>Archer</TagInteracao>
+
+    <framesDuration>5</framesDuration>
+    <x>0.0f</x>
+    <y>0.0f</y>
+    <z>0.0f</z>
+
+    <eHunger>10</eHunger>
+    <eEnergy>10</eEnergy>
+    <eFun>10</eFun>
+    <eUnadventurous>10</eUnadventurous>
+  </Interaction>
+  
+  <Interaction>
+    <Name>VisitSwordmansFort</Name>
+    <Hunger>10</Hunger>
+    <Energy>10</Energy>
+    <Fun>10</Fun>
+    <Unadventurous>0</Unadventurous>
+    <TagInteracao>Swordman</TagInteracao>
+
+    <framesDuration>5</framesDuration>
+    <x>0.0f</x>
+    <y>0.0f</y>
+    <z>0.0f</z>
+
+    <eHunger>10</eHunger>
+    <eEnergy>10</eEnergy>
+    <eFun>10</eFun>
+    <eUnadventurous>10</eUnadventurous>
+    </Interaction>
+  
+  <Interaction>
+    <Name>VisitMagesTower</Name>
+    <Hunger>10</Hunger>
+    <Energy>10</Energy>
+    <Fun>10</Fun>
+    <Unadventurous>0</Unadventurous>
+    <TagInteracao>Mage</TagInteracao>
+
+    <framesDuration>5</framesDuration>
+    <x>0.0f</x>
+    <y>0.0f</y>
+    <z>0.0f</z>
+
+    <eHunger>10</eHunger>
+    <eEnergy>10</eEnergy>
+    <eFun>10</eFun>
+    <eUnadventurous>10</eUnadventurous>
+  </Interaction>
+  
+  <!-- World Interactions -->
+  
+  <Interaction>
+    <Name>LeaveCity</Name>
+    <Hunger>10</Hunger>
+    <Energy>10</Energy>
+    <Fun>10</Fun>
+    <Unadventurous>10</Unadventurous>
+    <tagInteracao>Hero</tagInteracao>
+  </Interaction>
+
+  <Interaction>
+    <Name>Stroll</Name>
+    <Hunger>10</Hunger>
+    <Energy>10</Energy>
+    <Fun>10</Fun>
+    <Unadventurous>10</Unadventurous>
+    <tagInteracao>Hero</tagInteracao>
+  </Interaction>
+</Interactions>

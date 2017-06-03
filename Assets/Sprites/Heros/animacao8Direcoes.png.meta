@@ -1,0 +1,569 @@
+fileFormatVersion: 2
+guid: fa0f59dea872c394daa377712b836364
+timeCreated: 1460142695
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: animacao8Direcoes_0
+    21300002: animacao8Direcoes_1
+    21300004: animacao8Direcoes_2
+    21300006: animacao8Direcoes_3
+    21300008: animacao8Direcoes_4
+    21300010: animacao8Direcoes_5
+    21300012: animacao8Direcoes_6
+    21300014: animacao8Direcoes_7
+    21300016: animacao8Direcoes_8
+    21300018: animacao8Direcoes_9
+    21300020: animacao8Direcoes_10
+    21300022: animacao8Direcoes_11
+    21300024: animacao8Direcoes_12
+    21300026: animacao8Direcoes_13
+    21300028: animacao8Direcoes_14
+    21300030: animacao8Direcoes_15
+    21300032: animacao8Direcoes_16
+    21300034: animacao8Direcoes_17
+    21300036: animacao8Direcoes_18
+    21300038: animacao8Direcoes_19
+    21300040: animacao8Direcoes_20
+    21300042: animacao8Direcoes_21
+    21300044: animacao8Direcoes_22
+    21300046: animacao8Direcoes_23
+    21300048: animacao8Direcoes_24
+    21300050: animacao8Direcoes_25
+    21300052: animacao8Direcoes_26
+    21300054: animacao8Direcoes_27
+    21300056: animacao8Direcoes_28
+    21300058: animacao8Direcoes_29
+    21300060: animacao8Direcoes_30
+    21300062: animacao8Direcoes_31
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: animacao8Direcoes_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 456
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.5, y: 28}
+        - {x: -27.5, y: -28}
+        - {x: 27.5, y: -28}
+        - {x: 27.5, y: 28}
+    - name: animacao8Direcoes_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 456
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.5, y: 28}
+        - {x: -27.5, y: -28}
+        - {x: 27.5, y: -28}
+        - {x: 27.5, y: 28}
+    - name: animacao8Direcoes_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 456
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.5, y: 28}
+        - {x: -27.5, y: -28}
+        - {x: 27.5, y: -28}
+        - {x: 27.5, y: 28}
+    - name: animacao8Direcoes_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 456
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.5, y: 28}
+        - {x: -27.5, y: -28}
+        - {x: 27.5, y: -28}
+        - {x: 27.5, y: 28}
+    - name: animacao8Direcoes_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 392
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.5, y: 28}
+        - {x: -27.5, y: -28}
+        - {x: 27.5, y: -28}
+        - {x: 27.5, y: 28}
+    - name: animacao8Direcoes_5
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 392
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.5, y: 28}
+        - {x: -27.5, y: -28}
+        - {x: 27.5, y: -28}
+        - {x: 27.5, y: 28}
+    - name: animacao8Direcoes_6
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 392
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.5, y: 28}
+        - {x: -27.5, y: -28}
+        - {x: 27.5, y: -28}
+        - {x: 27.5, y: 28}
+    - name: animacao8Direcoes_7
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 392
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.5, y: 28}
+        - {x: -27.5, y: -28}
+        - {x: 27.5, y: -28}
+        - {x: 27.5, y: 28}
+    - name: animacao8Direcoes_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 328
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.5, y: 28}
+        - {x: -27.5, y: -28}
+        - {x: 27.5, y: -28}
+        - {x: 27.5, y: 28}
+    - name: animacao8Direcoes_9
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 328
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.5, y: 28}
+        - {x: -27.5, y: -28}
+        - {x: 27.5, y: -28}
+        - {x: 27.5, y: 28}
+    - name: animacao8Direcoes_10
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 328
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.5, y: 28}
+        - {x: -27.5, y: -28}
+        - {x: 27.5, y: -28}
+        - {x: 27.5, y: 28}
+    - name: animacao8Direcoes_11
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 328
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.5, y: 28}
+        - {x: -27.5, y: -28}
+        - {x: 27.5, y: -28}
+        - {x: 27.5, y: 28}
+    - name: animacao8Direcoes_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 264
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.5, y: 28}
+        - {x: -27.5, y: -28}
+        - {x: 27.5, y: -28}
+        - {x: 27.5, y: 28}
+    - name: animacao8Direcoes_13
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 264
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.5, y: 28}
+        - {x: -27.5, y: -28}
+        - {x: 27.5, y: -28}
+        - {x: 27.5, y: 28}
+    - name: animacao8Direcoes_14
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 264
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.5, y: 28}
+        - {x: -27.5, y: -28}
+        - {x: 27.5, y: -28}
+        - {x: 27.5, y: 28}
+    - name: animacao8Direcoes_15
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 264
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.5, y: 28}
+        - {x: -27.5, y: -28}
+        - {x: 27.5, y: -28}
+        - {x: 27.5, y: 28}
+    - name: animacao8Direcoes_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 200
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.5, y: 28}
+        - {x: -27.5, y: -28}
+        - {x: 27.5, y: -28}
+        - {x: 27.5, y: 28}
+    - name: animacao8Direcoes_17
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 200
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.5, y: 28}
+        - {x: -27.5, y: -28}
+        - {x: 27.5, y: -28}
+        - {x: 27.5, y: 28}
+    - name: animacao8Direcoes_18
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 200
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.5, y: 28}
+        - {x: -27.5, y: -28}
+        - {x: 27.5, y: -28}
+        - {x: 27.5, y: 28}
+    - name: animacao8Direcoes_19
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 200
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.5, y: 28}
+        - {x: -27.5, y: -28}
+        - {x: 27.5, y: -28}
+        - {x: 27.5, y: 28}
+    - name: animacao8Direcoes_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 136
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.5, y: 28}
+        - {x: -27.5, y: -28}
+        - {x: 27.5, y: -28}
+        - {x: 27.5, y: 28}
+    - name: animacao8Direcoes_21
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 136
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.5, y: 28}
+        - {x: -27.5, y: -28}
+        - {x: 27.5, y: -28}
+        - {x: 27.5, y: 28}
+    - name: animacao8Direcoes_22
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 136
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.5, y: 28}
+        - {x: -27.5, y: -28}
+        - {x: 27.5, y: -28}
+        - {x: 27.5, y: 28}
+    - name: animacao8Direcoes_23
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 136
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.5, y: 28}
+        - {x: -27.5, y: -28}
+        - {x: 27.5, y: -28}
+        - {x: 27.5, y: 28}
+    - name: animacao8Direcoes_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 72
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.5, y: 28}
+        - {x: -27.5, y: -28}
+        - {x: 27.5, y: -28}
+        - {x: 27.5, y: 28}
+    - name: animacao8Direcoes_25
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 72
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.5, y: 28}
+        - {x: -27.5, y: -28}
+        - {x: 27.5, y: -28}
+        - {x: 27.5, y: 28}
+    - name: animacao8Direcoes_26
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 72
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.5, y: 28}
+        - {x: -27.5, y: -28}
+        - {x: 27.5, y: -28}
+        - {x: 27.5, y: 28}
+    - name: animacao8Direcoes_27
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 72
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.5, y: 28}
+        - {x: -27.5, y: -28}
+        - {x: 27.5, y: -28}
+        - {x: 27.5, y: 28}
+    - name: animacao8Direcoes_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.5, y: 28}
+        - {x: -27.5, y: -28}
+        - {x: 27.5, y: -28}
+        - {x: 27.5, y: 28}
+    - name: animacao8Direcoes_29
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 8
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.5, y: 28}
+        - {x: -27.5, y: -28}
+        - {x: 27.5, y: -28}
+        - {x: 27.5, y: 28}
+    - name: animacao8Direcoes_30
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 8
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.5, y: 28}
+        - {x: -27.5, y: -28}
+        - {x: 27.5, y: -28}
+        - {x: 27.5, y: 28}
+    - name: animacao8Direcoes_31
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 8
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.5, y: 28}
+        - {x: -27.5, y: -28}
+        - {x: 27.5, y: -28}
+        - {x: 27.5, y: 28}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

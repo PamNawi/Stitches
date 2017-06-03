@@ -1,0 +1,245 @@
+fileFormatVersion: 2
+guid: 99b0bb78f6f19644c87035d76c11c4be
+timeCreated: 1461648633
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: sprite-walkingswordman35eeceb9e9600344585cbc7b57cf71650_0
+    21300002: sprite-walkingswordman35eeceb9e9600344585cbc7b57cf71650_1
+    21300004: sprite-walkingswordman35eeceb9e9600344585cbc7b57cf71650_2
+    21300006: sprite-walkingswordman35eeceb9e9600344585cbc7b57cf71650_3
+    21300008: sprite-walkingswordman35eeceb9e9600344585cbc7b57cf71650_4
+    21300010: sprite-walkingswordman35eeceb9e9600344585cbc7b57cf71650_5
+    21300012: sprite-walkingswordman35eeceb9e9600344585cbc7b57cf71650_6
+    21300014: sprite-walkingswordman35eeceb9e9600344585cbc7b57cf71650_7
+    21300016: sprite-walkingswordman35eeceb9e9600344585cbc7b57cf71650_8
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: sprite-walkingswordman35eeceb9e9600344585cbc7b57cf71650_0
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 176
+        width: 137
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.192558, y: 50.48867}
+        - {x: -27.192558, y: 42.48867}
+        - {x: -27.192558, y: -41.51133}
+        - {x: -21.192558, y: -49.51133}
+        - {x: 21.807442, y: -49.51133}
+        - {x: 24.807442, y: -48.51133}
+        - {x: 27.807442, y: -42.51133}
+        - {x: 27.807442, y: 43.48867}
+        - {x: 13.807442, y: 50.48867}
+    - name: sprite-walkingswordman35eeceb9e9600344585cbc7b57cf71650_1
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 176
+        width: 139
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.669922, y: 50.48867}
+        - {x: -18.669922, y: 49.48867}
+        - {x: -27.669922, y: 39.48867}
+        - {x: -27.669922, y: -49.51133}
+        - {x: 17.330078, y: -49.51133}
+        - {x: 28.330078, y: -37.51133}
+        - {x: 28.330078, y: 40.48867}
+        - {x: 16.330078, y: 50.48867}
+    - name: sprite-walkingswordman35eeceb9e9600344585cbc7b57cf71650_2
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 189
+        width: 175
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12.061462, y: 51.62136}
+        - {x: -27.938538, y: 51.62136}
+        - {x: -34.938538, y: 43.62136}
+        - {x: -34.938538, y: 7.621361}
+        - {x: -21.938538, y: -48.37864}
+        - {x: -17.938538, y: -50.37864}
+        - {x: 25.061462, y: -50.37864}
+        - {x: 35.061462, y: -42.37864}
+        - {x: 35.061462, y: 6.621361}
+        - {x: 27.061462, y: 44.62136}
+    - name: sprite-walkingswordman35eeceb9e9600344585cbc7b57cf71650_3
+      rect:
+        serializedVersion: 2
+        x: 1945
+        y: 184
+        width: 198
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.071228, y: 51.147247}
+        - {x: -39.071228, y: -6.8527527}
+        - {x: -39.071228, y: -40.852753}
+        - {x: -19.071228, y: -49.852753}
+        - {x: 5.928772, y: -49.852753}
+        - {x: 15.928772, y: -44.852753}
+        - {x: 40.928772, y: 10.147247}
+        - {x: 40.928772, y: 39.147247}
+        - {x: 37.928772, y: 51.147247}
+    - name: sprite-walkingswordman35eeceb9e9600344585cbc7b57cf71650_4
+      rect:
+        serializedVersion: 2
+        x: 2517
+        y: 189
+        width: 175
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 31.766968, y: 51.62136}
+        - {x: -9.233032, y: 51.62136}
+        - {x: -23.233032, y: 36.62136}
+        - {x: -34.233032, y: -26.37864}
+        - {x: -34.233032, y: -36.37864}
+        - {x: -27.233032, y: -50.37864}
+        - {x: 19.766968, y: -50.37864}
+        - {x: 25.766968, y: -46.37864}
+        - {x: 35.766968, y: 9.621361}
+        - {x: 35.766968, y: 44.62136}
+    - name: sprite-walkingswordman35eeceb9e9600344585cbc7b57cf71650_5
+      rect:
+        serializedVersion: 2
+        x: 3089
+        y: 176
+        width: 140
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.394897, y: 50.48867}
+        - {x: -27.394897, y: 40.48867}
+        - {x: -27.394897, y: -39.51133}
+        - {x: -18.394897, y: -49.51133}
+        - {x: 28.605103, y: -49.51133}
+        - {x: 28.605103, y: 40.48867}
+        - {x: 20.605103, y: 50.48867}
+    - name: sprite-walkingswordman35eeceb9e9600344585cbc7b57cf71650_6
+      rect:
+        serializedVersion: 2
+        x: 3646
+        y: 189
+        width: 172
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.979004, y: 51.62136}
+        - {x: -32.979004, y: 43.62136}
+        - {x: -33.979004, y: 40.62136}
+        - {x: -33.979004, y: -3.3786392}
+        - {x: -16.979004, y: -50.37864}
+        - {x: 35.020996, y: -50.37864}
+        - {x: 35.020996, y: 11.621361}
+        - {x: 17.020996, y: 51.62136}
+    - name: sprite-walkingswordman35eeceb9e9600344585cbc7b57cf71650_7
+      rect:
+        serializedVersion: 2
+        x: 4228
+        y: 189
+        width: 198
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.192627, y: 51.12136}
+        - {x: -39.192627, y: 38.12136}
+        - {x: -39.192627, y: 18.12136}
+        - {x: -16.192627, y: -47.87864}
+        - {x: -10.192627, y: -49.87864}
+        - {x: 25.807373, y: -49.87864}
+        - {x: 39.807373, y: -46.87864}
+        - {x: 39.807373, y: 5.121361}
+        - {x: 9.807373, y: 51.12136}
+    - name: sprite-walkingswordman35eeceb9e9600344585cbc7b57cf71650_8
+      rect:
+        serializedVersion: 2
+        x: 4821
+        y: 189
+        width: 174
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 33.43689, y: 51.62136}
+        - {x: -9.56311, y: 51.62136}
+        - {x: -22.56311, y: 39.62136}
+        - {x: -34.56311, y: 1.6213608}
+        - {x: -34.56311, y: -47.37864}
+        - {x: -25.56311, y: -50.37864}
+        - {x: 17.43689, y: -50.37864}
+        - {x: 21.43689, y: -44.37864}
+        - {x: 35.43689, y: -13.378639}
+        - {x: 35.43689, y: 47.62136}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

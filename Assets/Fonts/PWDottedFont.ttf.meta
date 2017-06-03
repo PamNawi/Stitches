@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: de65b4a00d011d847b3d1ef8a2a3ca66
+timeCreated: 1485370454
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: PWDottedFont
+  fontNames:
+  - PWDottedFont
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

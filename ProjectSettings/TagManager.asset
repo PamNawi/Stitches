@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - CanvasUI
+  - Hero
+  - Mission
+  - Enemy
+  - MissionController
+  - Tile
+  - HealthUI
+  - Weapon
+  - Building
+  - Node
+  - ViewSights
+  - Graph
+  - UI
+  - Spawner
+  - BuildingManager
+  - SmartObject
+  - SmartObjectManager
+  - YarnMenuButton
+  - Nature
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Buildings
+  - Characters
+  - Icons
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Parallax
+    uniqueID: 1170000171
+    locked: 0
+  - name: Background
+    uniqueID: 3750186927
+    locked: 0
+  - name: Frontground
+    uniqueID: 156923105
+    locked: 0
+  - name: Frontground2
+    uniqueID: 3650519903
+    locked: 0
+  - name: Frontground3
+    uniqueID: 944136233
+    locked: 0
+  - name: UI
+    uniqueID: 1518420475
+    locked: 0

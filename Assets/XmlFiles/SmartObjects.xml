@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<SmartObjects>
+  <!-- Missions -->
+  <SmartObject>
+      <Name>Attack Mission</Name>
+      <Description>Attack Mission</Description>
+      <Interaction>AttackMission</Interaction>
+    </SmartObject>
+  <SmartObject>
+    <Name>Defense Mission</Name>
+    <Description>Defense Mission</Description>
+    <Interaction>DefenseMission</Interaction>
+  </SmartObject>
+  <SmartObject>
+    <Name>Exploration Mission</Name>
+    <Description>Exploration Mission</Description>
+    <Interaction>ExploreMission</Interaction>
+  </SmartObject>
+
+  <!-- Builds -->
+  <SmartObject>
+    <Name>Visitable Building</Name>
+    <Description>Test of All buildings</Description>
+    <Interaction>Visit</Interaction>
+  </SmartObject>
+
+  <SmartObject>
+    <Name>INN</Name>
+    <Description>INN</Description>
+    <Interaction>VisitINN</Interaction>
+  </SmartObject>
+
+  <!-- Guilds -->
+  <SmartObject>
+    <Name>Monastery</Name>
+    <Description>Cleric's Monastery</Description>
+    <Interaction>VisitMonastery</Interaction>
+  </SmartObject>
+
+  <SmartObject>
+    <Name>Rogues Guild</Name>
+    <Description>Rogue's Guild</Description>
+    <Interaction>VisitRoguesGuild</Interaction>
+  </SmartObject>
+
+  <SmartObject>
+    <Name>Warriors Guild</Name>
+    <Description>Warrior's Guild</Description>
+    <Interaction>VisitWarriorsGuild</Interaction>
+  </SmartObject>
+
+  <SmartObject>
+    <Name>Archers Tent</Name>
+    <Description>Archer's Tent</Description>
+    <Interaction>VisitArchersTent</Interaction>
+  </SmartObject>
+
+  <SmartObject>
+    <Name>Swordmans Fort</Name>
+    <Description>Swordman's Fort</Description>
+    <Interaction>VisitSwordmansFort</Interaction>
+  </SmartObject>
+
+  <SmartObject>
+    <Name>Mages Tower</Name>
+    <Description>Mage's Tower</Description>
+    <Interaction>VisitMagesTower</Interaction>
+  </SmartObject>
+
+  <!-- World -->
+  <SmartObject>
+    <Name>World</Name>
+    <Description>A hidden object for world interaction</Description>
+    <Interaction>Stroll</Interaction>
+    <Interaction>Leave City</Interaction>
+  </SmartObject>
+  
+</SmartObjects>

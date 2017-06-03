@@ -1,0 +1,213 @@
+fileFormatVersion: 2
+guid: f855b46aaa77e994f8bd6c5ff31ad85a
+timeCreated: 1461649603
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: sprite-walkingswordman35eeceb9e9600344585cbc7b57cf71651_0
+    21300002: sprite-walkingswordman35eeceb9e9600344585cbc7b57cf71651_1
+    21300004: sprite-walkingswordman35eeceb9e9600344585cbc7b57cf71651_2
+    21300006: sprite-walkingswordman35eeceb9e9600344585cbc7b57cf71651_3
+    21300008: sprite-walkingswordman35eeceb9e9600344585cbc7b57cf71651_4
+    21300010: sprite-walkingswordman35eeceb9e9600344585cbc7b57cf71651_5
+    21300012: sprite-walkingswordman35eeceb9e9600344585cbc7b57cf71651_6
+    21300014: sprite-walkingswordman35eeceb9e9600344585cbc7b57cf71651_7
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: sprite-walkingswordman35eeceb9e9600344585cbc7b57cf71651_0
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 188
+        width: 173
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.333336, y: 58.555557}
+        - {x: -38.333336, y: 5.5555573}
+        - {x: -38.333336, y: -54.444443}
+        - {x: -34.333336, y: -57.444443}
+        - {x: 29.666664, y: -57.444443}
+        - {x: 39.666664, y: -21.444443}
+        - {x: 39.666664, y: 48.555557}
+        - {x: 34.666664, y: 58.555557}
+    - name: sprite-walkingswordman35eeceb9e9600344585cbc7b57cf71651_1
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 188
+        width: 173
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38.555542, y: 58.555557}
+        - {x: -38.555542, y: -6.4444427}
+        - {x: -31.555542, y: -57.444443}
+        - {x: 21.444458, y: -57.444443}
+        - {x: 39.444458, y: -50.444443}
+        - {x: 39.444458, y: -6.4444427}
+        - {x: 17.444458, y: 58.555557}
+    - name: sprite-walkingswordman35eeceb9e9600344585cbc7b57cf71651_2
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 185
+        width: 198
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.055542, y: 56.72222}
+        - {x: -44.055542, y: 0.7222214}
+        - {x: -44.055542, y: -44.27778}
+        - {x: -39.055542, y: -56.27778}
+        - {x: 14.944458, y: -56.27778}
+        - {x: 44.944458, y: -6.2777786}
+        - {x: 44.944458, y: 46.72222}
+        - {x: 37.944458, y: 56.72222}
+    - name: sprite-walkingswordman35eeceb9e9600344585cbc7b57cf71651_3
+      rect:
+        serializedVersion: 2
+        x: 1941
+        y: 188
+        width: 173
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.333313, y: 58.555557}
+        - {x: -38.333313, y: 5.5555573}
+        - {x: -38.333313, y: -54.444443}
+        - {x: -34.333313, y: -57.444443}
+        - {x: 29.666687, y: -57.444443}
+        - {x: 39.666687, y: -21.444443}
+        - {x: 39.666687, y: 48.555557}
+        - {x: 34.666687, y: 58.555557}
+    - name: sprite-walkingswordman35eeceb9e9600344585cbc7b57cf71651_4
+      rect:
+        serializedVersion: 2
+        x: 2494
+        y: 188
+        width: 173
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38.555542, y: 58.555557}
+        - {x: -38.555542, y: -6.4444427}
+        - {x: -31.555542, y: -57.444443}
+        - {x: 21.444458, y: -57.444443}
+        - {x: 39.444458, y: -50.444443}
+        - {x: 39.444458, y: -6.4444427}
+        - {x: 17.444458, y: 58.555557}
+    - name: sprite-walkingswordman35eeceb9e9600344585cbc7b57cf71651_5
+      rect:
+        serializedVersion: 2
+        x: 3090
+        y: 176
+        width: 138
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.666626, y: 56.22222}
+        - {x: -30.666626, y: 50.22222}
+        - {x: -30.666626, y: -55.77778}
+        - {x: 23.333374, y: -55.77778}
+        - {x: 31.333374, y: -46.77778}
+        - {x: 31.333374, y: 44.22222}
+        - {x: 24.333374, y: 56.22222}
+    - name: sprite-walkingswordman35eeceb9e9600344585cbc7b57cf71651_6
+      rect:
+        serializedVersion: 2
+        x: 3653
+        y: 190
+        width: 196
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43.444458, y: 56.944443}
+        - {x: -43.444458, y: 3.9444427}
+        - {x: -21.444458, y: -55.055557}
+        - {x: -17.444458, y: -56.055557}
+        - {x: 37.555542, y: -56.055557}
+        - {x: 44.555542, y: -48.055557}
+        - {x: 44.555542, y: -8.055557}
+        - {x: 26.555542, y: 56.944443}
+    - name: sprite-walkingswordman35eeceb9e9600344585cbc7b57cf71651_7
+      rect:
+        serializedVersion: 2
+        x: 4242
+        y: 176
+        width: 138
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.666626, y: 56.22222}
+        - {x: -30.666626, y: 50.22222}
+        - {x: -30.666626, y: -55.77778}
+        - {x: 23.333374, y: -55.77778}
+        - {x: 31.333374, y: -46.77778}
+        - {x: 31.333374, y: 44.22222}
+        - {x: 24.333374, y: 56.22222}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,117 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &102744
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 431902}
+  - component: {fileID: 11406354}
+  m_Layer: 0
+  m_Name: Spritesheet
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &431902
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 102744}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &11406354
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 102744}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 779f66cbbeff4654495e2beb306747ec, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  tiles:
+    _Buckets: 000000000800000002000000030000000400000005000000010000000600000007000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+    _HashCodes: 0000000006000000020000000300000004000000050000000700000008000000010000000000000000000000000000000000000000000000000000000000000000000000
+    _Next: ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff0000000000000000000000000000000000000000000000000000000000000000
+    _Count: 9
+    _Version: 63
+    _FreeList: -1
+    _FreeCount: 0
+    _Keys: 0000000006000000020000000300000004000000050000000700000008000000010000000000000000000000000000000000000000000000000000000000000000000000
+    _Values:
+    - {fileID: 1000014142289138, guid: 0f8bd48f371816b49bc61c0238a63ba0, type: 2}
+    - {fileID: 1000010599597566, guid: 6bb24e6e505a9f249b22de9de58865f3, type: 2}
+    - {fileID: 1000011327368938, guid: 90cc3f73cbce6504f9288aa4e425cbba, type: 2}
+    - {fileID: 1000011327368938, guid: 90cc3f73cbce6504f9288aa4e425cbba, type: 2}
+    - {fileID: 1000011384681156, guid: 995fa9b38ca9d4145a95093a5d7edb04, type: 2}
+    - {fileID: 1000011384681156, guid: 995fa9b38ca9d4145a95093a5d7edb04, type: 2}
+    - {fileID: 1000010599597566, guid: 6bb24e6e505a9f249b22de9de58865f3, type: 2}
+    - {fileID: 143738, guid: f387817e0d576ed418d36f9c52e96b56, type: 2}
+    - {fileID: 1150121320556646, guid: 625c96a93612f1b4cae9629872ee6184, type: 2}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+  vocabulary:
+    _Buckets: 0100000007000000ffffffffffffffffffffffffffffffff03000000ffffffffffffffffffffffffffffffff05000000ffffffff02000000ffffffff0400000006000000
+    _HashCodes: ab0c00007700000073000000e80c00004a9001001f0e00009b0e000067000000000000000000000000000000000000000000000000000000000000000000000000000000
+    _Next: ffffffffffffffff00000000ffffffffffffffffffffffffffffffffffffffff000000000000000000000000000000000000000000000000000000000000000000000000
+    _Count: 8
+    _Version: 74
+    _FreeList: -1
+    _FreeCount: 0
+    _Keys:
+    - g2
+    - w
+    - s
+    - go
+    - go2
+    - s2
+    - w2
+    - g
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    _Values: 0100000002000000040000000600000007000000050000000300000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+  tileHeight: 512
+  tileWidth: 512
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 0}
+      propertyPath: tileHeight
+      value: 128
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: tileWidth
+      value: 128
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 102744}
+  m_IsPrefabParent: 1
